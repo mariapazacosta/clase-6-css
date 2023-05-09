@@ -1,0 +1,139 @@
+
+
+.color-tabla {
+color: black;
+    background-color: rgb(177, 245, 222);
+}
+
+.titulo-importante {
+    color:black;
+    background-color:white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    }
+
+.dias-horarios {
+    color: black;
+    background-color: rgb(176, 118, 230);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.horarios-dias {
+    color: black;
+    background-color: darksalmon;
+    font-style: italic;
+}
+
+
+.cuerpo-titulo {
+    background-color:black;
+font-family:'Courier New', Courier, monospace;
+}
+
+
+.logo{
+    background-image: url("../img/Logo\ Ulman.jpg");
+  width: fit-content;
+    text-align: center;
+  height: auto;
+}
+
+.nav ul{
+    display: flex;
+    list-style:none;
+    padding: 0;
+    flex-direction: row;
+justify-content: center;
+gap: 10px;
+align-items: center;
+width:auto;
+
+}
+
+.nav ul li {
+    color:white;
+    background-color:rgb(255, 203, 214);
+    font-size: 1rem;
+    }
+
+.fondo {
+    color:white;
+    background-color:black;
+    width: 100%;
+    height: 14cm;
+   background-image: url("../img/cart.jpg");
+   background-position:10% 10%;
+   background-repeat: repeat-x;
+}
+
+.pie-pagina {
+    padding-top:.5% ;
+    text-align: end;
+    color: black;
+    background-color:wheat;
+    text-transform:none;
+    font-size: 12px;
+    width: 100%;
+    height: 1cm;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.borde-formulario {
+    text-transform: capitalize;
+    color: black;
+    background-color: rgb(171, 212, 214);
+    border:  3px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.body{
+   background-image: url("../img/bolblanco.jpeg");
+   }
+
+.a {
+    color: black;
+    background-color:rgb(255, 203, 214) ;
+text-transform: uppercase;
+font-weight: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.color-pagina {
+    color:white;
+    background-color:rgb(124, 122, 122);
+    text-align: center;
+text-transform:uppercase;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: .5cm;
+border: 2px solid;
+}
+
+.tabla{
+    color: black;
+    background-color:rgb(224, 187, 187);
+}
+
+.div{ 
+    display: flex;
+    justify-content: center;
+   }
+
+.div img{
+   height: 250px;
+   width: 250px;
+}
+
+.footer{
+color:white;
+}
+
